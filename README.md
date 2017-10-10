@@ -1,3 +1,3 @@
 # Lexical-translator
 
-Program is made in program.py and the test files are the .txt and .c ones.
+Program is made in program.py and the test file is the .txt one.
